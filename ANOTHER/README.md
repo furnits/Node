@@ -3,7 +3,7 @@
 Install automation sat  set
 
 ```bash
-wget -q -O another-1-rekap.sh https://raw.githubusercontent.com/nadi555/Ternode/main/Another-1/another-1.sh && chmod +x another-1-rekap.sh && sudo /bin/bash another-1-rekap.sh
+wget -q -O another-1-rekap.sh https://raw.githubusercontent.com/furnits/Node/main/ANOTHER/another-1.sh && chmod +x another-1-rekap.sh && sudo /bin/bash another-1-rekap.sh
 ```
 
 #### after installation
